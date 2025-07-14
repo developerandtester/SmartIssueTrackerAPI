@@ -2,6 +2,10 @@ using SmartIssueTrackerAPI.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
+var openAiKey = builder.Configuration["OpenAI:ApiKey"];
+builder.Services.AddHttpClient<AIService>();
+
+
 // Add services to the container.
 
 builder.Services.AddControllers();

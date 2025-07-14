@@ -34,3 +34,4 @@ C:\Users\Prathmesh Vyas\source\repos\SmartIssueTrackerAPI\obj\Debug\net8.0\refin
 C:\Users\Prathmesh Vyas\source\repos\SmartIssueTrackerAPI\obj\Debug\net8.0\SmartIssueTrackerAPI.pdb
 C:\Users\Prathmesh Vyas\source\repos\SmartIssueTrackerAPI\obj\Debug\net8.0\SmartIssueTrackerAPI.genruntimeconfig.cache
 C:\Users\Prathmesh Vyas\source\repos\SmartIssueTrackerAPI\obj\Debug\net8.0\ref\SmartIssueTrackerAPI.dll
+C:\Users\Prathmesh Vyas\source\repos\SmartIssueTrackerAPI\obj\Debug\net8.0\SmartIssueTrackerAPI.sourcelink.json

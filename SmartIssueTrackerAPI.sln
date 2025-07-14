@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35913.81 d17.13
+VisualStudioVersion = 17.13.35913.81
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartIssueTrackerAPI", "SmartIssueTrackerAPI.csproj", "{C26734B6-A728-458E-8725-BF6FDB86518E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartIssueTrackerAPI.Tests", "..\SmartIssueTrackerAPI.Tests\SmartIssueTrackerAPI.Tests.csproj", "{1278AA34-8B7B-42F1-B828-1BF67A511FE8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{C26734B6-A728-458E-8725-BF6FDB86518E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C26734B6-A728-458E-8725-BF6FDB86518E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C26734B6-A728-458E-8725-BF6FDB86518E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1278AA34-8B7B-42F1-B828-1BF67A511FE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1278AA34-8B7B-42F1-B828-1BF67A511FE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1278AA34-8B7B-42F1-B828-1BF67A511FE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1278AA34-8B7B-42F1-B828-1BF67A511FE8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
