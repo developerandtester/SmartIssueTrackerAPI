@@ -1,0 +1,6 @@
+@SmartIssueTrackerAPI_HostAddress = http://localhost:5215
+
+GET {{SmartIssueTrackerAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
