@@ -3,7 +3,27 @@
   "WorkspaceRootPath": "C:\\Users\\Prathmesh Vyas\\source\\repos\\SmartIssueTrackerAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C26734B6-A728-458E-8725-BF6FDB86518E}|SmartIssueTrackerAPI.csproj|c:\\users\\prathmesh vyas\\source\\repos\\smartissuetrackerapi\\controllers\\issuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C26734B6-A728-458E-8725-BF6FDB86518E}|SmartIssueTrackerAPI.csproj|solutionrelative:controllers\\issuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1278AA34-8B7B-42F1-B828-1BF67A511FE8}|..\\SmartIssueTrackerAPI.Tests\\SmartIssueTrackerAPI.Tests.csproj|c:\\users\\prathmesh vyas\\source\\repos\\smartissuetrackerapi.tests\\issuetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C26734B6-A728-458E-8725-BF6FDB86518E}|SmartIssueTrackerAPI.csproj|c:\\users\\prathmesh vyas\\source\\repos\\smartissuetrackerapi\\services\\issuestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C26734B6-A728-458E-8725-BF6FDB86518E}|SmartIssueTrackerAPI.csproj|solutionrelative:services\\issuestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C26734B6-A728-458E-8725-BF6FDB86518E}|SmartIssueTrackerAPI.csproj|c:\\users\\prathmesh vyas\\source\\repos\\smartissuetrackerapi\\services\\aiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C26734B6-A728-458E-8725-BF6FDB86518E}|SmartIssueTrackerAPI.csproj|solutionrelative:services\\aiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C26734B6-A728-458E-8725-BF6FDB86518E}|SmartIssueTrackerAPI.csproj|c:\\users\\prathmesh vyas\\source\\repos\\smartissuetrackerapi\\smartissuetrackerapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C26734B6-A728-458E-8725-BF6FDB86518E}|SmartIssueTrackerAPI.csproj|solutionrelative:smartissuetrackerapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C26734B6-A728-458E-8725-BF6FDB86518E}|SmartIssueTrackerAPI.csproj|c:\\users\\prathmesh vyas\\source\\repos\\smartissuetrackerapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{C26734B6-A728-458E-8725-BF6FDB86518E}|SmartIssueTrackerAPI.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,12 +38,74 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "IssuesController.cs",
+              "DocumentMoniker": "C:\\Users\\Prathmesh Vyas\\source\\repos\\SmartIssueTrackerAPI\\Controllers\\IssuesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\IssuesController.cs",
+              "ToolTip": "C:\\Users\\Prathmesh Vyas\\source\\repos\\SmartIssueTrackerAPI\\Controllers\\IssuesController.cs",
+              "RelativeToolTip": "Controllers\\IssuesController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwB4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T11:17:03.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SmartIssueTrackerAPI.http",
+              "DocumentMoniker": "C:\\Users\\Prathmesh Vyas\\source\\repos\\SmartIssueTrackerAPI\\SmartIssueTrackerAPI.http",
+              "RelativeDocumentMoniker": "SmartIssueTrackerAPI.http",
+              "ToolTip": "C:\\Users\\Prathmesh Vyas\\source\\repos\\SmartIssueTrackerAPI\\SmartIssueTrackerAPI.http",
+              "RelativeToolTip": "SmartIssueTrackerAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-07-22T11:16:51.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IssueStore.cs",
+              "DocumentMoniker": "C:\\Users\\Prathmesh Vyas\\source\\repos\\SmartIssueTrackerAPI\\Services\\IssueStore.cs",
+              "RelativeDocumentMoniker": "Services\\IssueStore.cs",
+              "ToolTip": "C:\\Users\\Prathmesh Vyas\\source\\repos\\SmartIssueTrackerAPI\\Services\\IssueStore.cs",
+              "RelativeToolTip": "Services\\IssueStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T11:16:39.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Prathmesh Vyas\\source\\repos\\SmartIssueTrackerAPI\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\Prathmesh Vyas\\source\\repos\\SmartIssueTrackerAPI\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-14T22:18:11.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AIService.cs",
+              "DocumentMoniker": "C:\\Users\\Prathmesh Vyas\\source\\repos\\SmartIssueTrackerAPI\\Services\\AIService.cs",
+              "RelativeDocumentMoniker": "Services\\AIService.cs",
+              "ToolTip": "C:\\Users\\Prathmesh Vyas\\source\\repos\\SmartIssueTrackerAPI\\Services\\AIService.cs",
+              "RelativeToolTip": "Services\\AIService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T21:56:19.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "IssueTests.cs",
               "DocumentMoniker": "C:\\Users\\Prathmesh Vyas\\source\\repos\\SmartIssueTrackerAPI.Tests\\IssueTests.cs",
               "RelativeDocumentMoniker": "..\\SmartIssueTrackerAPI.Tests\\IssueTests.cs",
               "ToolTip": "C:\\Users\\Prathmesh Vyas\\source\\repos\\SmartIssueTrackerAPI.Tests\\IssueTests.cs",
               "RelativeToolTip": "..\\SmartIssueTrackerAPI.Tests\\IssueTests.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAowDQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAUwDYAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-14T21:36:01.478Z",
               "EditorCaption": ""

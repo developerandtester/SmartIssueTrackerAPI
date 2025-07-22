@@ -17,5 +17,13 @@ namespace SmartIssueTrackerAPI.Services
             var index = _issues.FindIndex(i => i.Id == updated.Id);
             if (index != -1) _issues[index] = updated;
         }
+
+        public void Close(Guid id)
+        {
+            var issue = _issues.FirstOrDefault(i => i.Id == id);
+            if (issue != null)
+                issue.Status = "Closed";
+        }
+
     }
 }
