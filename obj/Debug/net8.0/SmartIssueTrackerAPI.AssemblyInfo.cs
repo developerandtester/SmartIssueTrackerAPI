@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartIssueTrackerAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9aa58a0e8baad2cd79b9ab96aa8e0071e9e9cd9b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78ed8b6ab6b725956289ff1c8d5aacb5a2753e43")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartIssueTrackerAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartIssueTrackerAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
